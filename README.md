@@ -13,7 +13,7 @@
   [![Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://orbitview-five.vercel.app)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
   
-  [Live Demo](https://orbit-view-interactive-3-d-space-si-steel.vercel.app/) · [Wiki](https://github.com/SpaceEngineerSS/OrbitVieW/wiki) · [Theory](THEORY.md) · [Report Bug](https://github.com/SpaceEngineerSS/OrbitView/issues)
+  [Live Demo](https://orbit-view-interactive-3-d-space-si-steel.vercel.app/) · [Wiki](https://github.com/MeAkash77/OrbitView-Interactive-3D-Space-Situational-Awareness-Satellite-Visualization) · [Theory](THEORY.md) · [Report Bug](https://github.com/MeAkash77/OrbitView-Interactive-3D-Space-Situational-Awareness-Satellite-Visualization/issues)
 </div>
 
 ---
