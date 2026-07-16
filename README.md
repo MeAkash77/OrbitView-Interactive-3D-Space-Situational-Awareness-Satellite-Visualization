@@ -241,32 +241,9 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ---
 
-## 👨‍💻 Developer & Attribution
-
-This project was developed by **Mehmet Gümüş**.
-
-🌐 **Website:** [spacegumus.com.tr](https://spacegumus.com.tr)  
-🐙 **GitHub:** [OrbitVieW](https://github.com/SpaceEngineerSS/OrbitVieW)  
-𝕏 **X (Twitter):** [@persesmg](https://x.com/persesmg)  
-📧 **Email:** [contact@spacegumus.com.tr](mailto:contact@spacegumus.com.tr)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [CelesTrak](https://celestrak.org/) — TLE data source
-- [CesiumJS](https://cesium.com/) — 3D globe engine
-- [satellite.js](https://github.com/shashwatak/satellite-js) — SGP4 implementation
-
----
-
-## 🚀 Live Demo
-
-**[orbitview-five.vercel.app](https://orbitview-five.vercel.app)**
 
 ---
 
