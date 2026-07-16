@@ -79,7 +79,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/SpaceEngineerSS/OrbitVieW.git
+git clone https://github.com/MeAkash77/OrbitView-Interactive-3D-Space-Situational-Awareness-Satellite-Visualization.git
 cd orbitview
 
 # Install dependencies
